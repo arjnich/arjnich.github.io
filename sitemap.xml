@@ -3,15 +3,72 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>arjnich.github.io/</loc>
+    <loc>http://example.org/</loc>
+    <lastmod>2020-12-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>arjnich.github.io/categories/</loc>
+    <loc>http://example.org/blog/lamb-chop/</loc>
+    <lastmod>2020-12-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>arjnich.github.io/tags/</loc>
+    <loc>http://example.org/blog/</loc>
+    <lastmod>2020-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/portfolio/</loc>
+    <lastmod>2020-08-12T18:19:35+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/portfolio/recipe-app-ux-study/</loc>
+    <lastmod>2020-08-12T18:19:35+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/portfolio/ux-case-study-for-agriculture-app/</loc>
+    <lastmod>2020-08-12T12:13:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/portfolio/event-app-case-study/</loc>
+    <lastmod>2020-08-12T18:07:16+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/portfolio/case-study-one/</loc>
+    <lastmod>2020-07-13T12:49:27+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/portfolio/impossibility-of-constructions/</loc>
+    <lastmod>2020-07-13T12:49:27+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/fr/blog/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/en/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/fr/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/en/blog/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
   </url>
   
 </urlset>
