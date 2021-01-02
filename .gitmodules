@@ -1,0 +1,9 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/vex"]
+	path = themes/vex
+	url = https://github.com/themefisher/vex-hugo.git
+[submodule "themes/pico"]
+	path = themes/pico
+	url = https://github.com/negrel/hugo-theme-pico.git
