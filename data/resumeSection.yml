@@ -1,0 +1,47 @@
+---
+enable: true
+#topTitle: My Resume
+title: >
+  ## My Background
+
+    
+
+ 
+tab1Name: Education
+tab2Name: Experiences
+tab1Target: education
+tab2Target: experience
+
+education:
+  - content: >
+      #### University of California, San Diego
+
+      ##### Bachelor of Science in Mathematics-Computer Science
+
+
+      Minor in Cognitive Science
+    time: 2018-2021
+
+experience:
+  - content: >
+      #### KLA
+
+      ##### Software Engineering Intern
+
+      Worked to create a visualization server to analyze machine learning model performance.
+    time: 2020
+  - content: >
+      #### Scripps Research Translational Institue
+
+      ##### Research Intern
+
+      Applied machine learning techniques to forecast pacemaker implants in patients who underwent Transcatheter Aortic Valve Replacement surgery.
+    time: 2019-2020
+  - content: >
+      #### 12 Sigma Techonogies
+
+      ##### Data Intern 
+
+      Classified and organized cancerous liver data for supervised learning.
+    time: 2018
+

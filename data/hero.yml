@@ -1,0 +1,16 @@
+---
+enable: true
+topTitle: Welcome to my personal website.
+content: >
+  # Hello! I am Arjun.
+
+  I am currently an undergraduate studying Mathematics-Computer Science at UC San Diego. Check out this website for my work over the last couple years.
+
+
+  Contact me at anichani@ucsd.edu
+
+#buttonName: Contact me
+#buttonURL: contact
+image: images/hero/arjun.jpg
+#videoThumb: images/hero/popup-thumb.png
+#videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ

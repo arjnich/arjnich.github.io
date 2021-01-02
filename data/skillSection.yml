@@ -1,0 +1,24 @@
+---
+enable: true
+topTitle: Projects
+content: >
+  ### Research
+
+  **Machine Learning For Prediction of Pacemaker after TAVR in Patients with Low Stroke Volume Index (*In Progress*)** - Applied machine learning techniques
+  to forecast pacemaker implants in patients after Transcathether Aortic Valve Replacement Surgery. 
+
+
+  **Predicting Pitcher Injuries Using Sabermetrics and Machine Learning** [[pdf](pdf/Final_HDSI_Poster_Arjun_Nichani(1).pdf)] - Used
+  machine learning techniques to predict Ulnar Collateral Ligament tears in Major League Baseball Pitchers.
+
+  *Halıcıoğlu Data Science Institute Undergraudate Fellowship Project* -[San Diego Union Tribune Article](https://www.sandiegouniontribune.com/news/science/sd-me-ucsd-baseball-20180930-story.html)
+
+  ### Class Projects
+
+  **Proving the Impossibility of Constructions Through Field Theory** [[pdf](pdf/MATH_103B_Final_Paper(3).pdf)] - UC San Diego MATH 103B
+  (Modern Algebra II) Final Paper
+
+image: images/skill/1.jpg
+
+
+
