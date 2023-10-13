@@ -19,9 +19,9 @@ In my free time, I enjoy playing music.
 ## Publications
 
 
-Machine Learning for Prediction of Pacemaker After TAVR in Patients with Low Stroke Volume Index
-Pandey A, Nichani A, Pelter M, et al. MACHINE LEARNING FOR PREDICTION OF PACEMAKER AFTER TAVR IN PATIENTS WITH LOW STROKE VOLUME INDEX. J Am Coll Cardiol. 2021 May, 77 (18_Supplement_1) 1182.
-https://doi.org/10.1016/S0735-1097(21)02541-9
+[Machine Learning for Prediction of Pacemaker After TAVR in Patients with Low Stroke Volume Index] (https://www.jacc.org/doi/full/10.1016/S0735-1097%2821%2902541-9)
+
+Journal of the American College of Cardiology 2021
 
 ## Projects
 
