@@ -20,8 +20,7 @@ In my free time, I enjoy playing music.
 
 
 [Machine Learning for Prediction of Pacemaker After TAVR in Patients with Low Stroke Volume Index](https://www.jacc.org/doi/full/10.1016/S0735-1097%2821%2902541-9)
-
-Journal of the American College of Cardiology 2021
+: Journal of the American College of Cardiology (JACC) 2021
 
 ## Projects
 
