@@ -19,21 +19,18 @@ In my free time, I enjoy playing music.
 ## Publications
 
 
-[Machine Learning for Prediction of Pacemaker After TAVR in Patients with Low Stroke Volume Index](https://www.jacc.org/doi/full/10.1016/S0735-1097%2821%2902541-9)
-: Amitabh C Pandey, **Arjun Nichani**, Megan Pelter, et al.
-: Journal of the American College of Cardiology (JACC) 2021
+[Machine Learning for Prediction of Pacemaker After TAVR in Patients with Low Stroke Volume Index](https://www.jacc.org/doi/full/10.1016/S0735-1097%2821%2902541-9)   Amitabh C Pandey, **Arjun Nichani**, Megan Pelter, et al.  
+Journal of the American College of Cardiology (JACC) 2021
 
 ## Projects
 
-Contrastive Learning of Better Semantic Representations
+Contrastive Learning of Better Semantic Representations (2022)
 
+Improvements and Analysis of Private Ensemble-Based Federated Learning (2022)
 
+Detecting Bias in Edge Devices for Federated Learning using Generative Modeling (2021)
 
-Improvements and Analysis of Private Ensemble-Based Federated Learning
-
-Detecting Bias in Edge Devices for Federated Learning using Generative Modeling
-
-Predicting Pitcher Injuries Using Sabermetrics and Machine Learning
+Predicting Pitcher Injuries Using Sabermetrics and Machine Learning (2019)
 
 
 ## News
