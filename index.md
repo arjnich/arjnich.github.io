@@ -10,7 +10,7 @@ My research interests are broadly in the theory and applications of **responsibl
 
 I completed my BS degree in Mathematics and Computer Science at the **University of California, San Diego** and my MS degree in Computer Science at **Columbia University**, where I worked with **[Brian Smith](https://www.cs.columbia.edu/~brian/)** in the **[Computer-enabled Abilites Laboratory](https://ceal.cs.columbia.edu/)**.
 
-In my free time, I enjoy playing music.
+In my free time, I enjoy following baseball, playing board games, and composing music.
 
 
 
