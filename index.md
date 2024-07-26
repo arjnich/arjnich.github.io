@@ -18,9 +18,9 @@ In my free time, I enjoy following baseball, playing board games, and composing 
 
 ## Publications
 
-[Gone With the Bits: Benchmarking Bias in Facial Phenotype Degradation Under Low-Rate Neural Compression](https://openreview.net/forum?id=zIrvyQdIG4)
-Tian Qiu\*, **Arjun Nichani\***, Rasta Tadayon, Haewon Jeong
-*International Conference on Machine Learning (ICML), 2024*
+[Gone With the Bits: Benchmarking Bias in Facial Phenotype Degradation Under Low-Rate Neural Compression](https://openreview.net/forum?id=zIrvyQdIG4)  
+Tian Qiu\*, **Arjun Nichani\***, Rasta Tadayon, Haewon Jeong  
+*International Conference on Machine Learning (ICML), 2024*  
 *Next Generation AI Safety Workshop*
 
 [Machine Learning for Prediction of Pacemaker After TAVR in Patients with Low Stroke Volume Index](https://www.jacc.org/doi/full/10.1016/S0735-1097%2821%2902541-9)  
@@ -40,6 +40,6 @@ Detecting Bias in Edge Devices for Federated Learning using Generative Modeling 
 
 ## News
 
-[Jul 2024] I attended ICML 2024 in Vienna!
-[Jun 2024] Our paper Gone With the Bits: Benchmarking Bias in Facial Phenotype Degradation Under Low-Rate Neural Compression was accepted to the ICML 2024 Next Generation AI Safety Workshop!
+[Jul 2024] I attended ICML 2024 in Vienna!  
+[Jun 2024] Our paper Gone With the Bits: Benchmarking Bias in Facial Phenotype Degradation Under Low-Rate Neural Compression was accepted to the ICML 2024 Next Generation AI Safety Workshop!  
 [Sep 2023] I began my PhD at the University of California, Santa Barbara!
