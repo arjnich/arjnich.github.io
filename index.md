@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[Home](index.md)/Publications/Projects
+
 ## Bio
 
 Hi, I'm Arjun! I am a first-year PhD student in the Computer Science Department at the **[University of California, Santa Barbara](https://www.ucsb.edu/)** advised by **[Haewon Jeong](https://www.haewonjeong.com/)**.
