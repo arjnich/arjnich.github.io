@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Home](index.md)/Publications/Projects
+[Home](index.md)/[Publications](publications.md)/[Projects](projects.md)
 
 ## Bio
 
@@ -13,31 +13,6 @@ My research interests are broadly in the theory and applications of **fair, priv
 I completed my BS degree in Mathematics and Computer Science at the **University of California, San Diego** and my MS degree in Computer Science at **Columbia University**.
 
 In my free time, I enjoy following baseball, playing board games, and composing music.
-
-
-
-
-
-## Publications
-
-[Gone With the Bits: Benchmarking Bias in Facial Phenotype Degradation Under Low-Rate Neural Compression](https://openreview.net/forum?id=zIrvyQdIG4)  
-Tian Qiu\*, **Arjun Nichani\***, Rasta Tadayon, Haewon Jeong  
-*International Conference on Machine Learning (ICML), 2024*  
-*Next Generation AI Safety Workshop*
-
-[Machine Learning for Prediction of Pacemaker After TAVR in Patients with Low Stroke Volume Index](https://www.jacc.org/doi/full/10.1016/S0735-1097%2821%2902541-9)  
-Amitabh C Pandey, **Arjun Nichani**, Megan Pelter, et al.  
-*Journal of the American College of Cardiology (JACC)*, 2021
-
-\*=equal contribution
-
-## Projects
-
-Contrastive Learning of Better Semantic Representations (2022)
-
-Improvements and Analysis of Private Ensemble-Based Federated Learning (2022)
-
-Detecting Bias in Edge Devices for Federated Learning using Generative Modeling (2021)
 
 
 ## News
