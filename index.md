@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Home](index.md)/[Publications](publications.md)/[Projects](projects.md)
+[**Home**](index.md)/[**Publications**](publications.md)/[**Projects**](projects.md)
 
 ## Bio
 
