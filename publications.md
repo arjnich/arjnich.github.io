@@ -6,9 +6,9 @@ layout: default
 
 ## Publications
 
-[Can We Catch the Two Birds of Fairness and Privacy?](./can_we_catch_two_birds.pdf)
-**Arjun Nichani**, Hsiang Hsu, Haewon Jeong 
-*International Conference on Learning Representations (ICLR), 2025*  
+[Can We Catch the Two Birds of Fairness and Privacy?](./can_we_catch_two_birds.pdf)  
+**Arjun Nichani**, Hsiang Hsu, Haewon Jeong  
+*International Conference on Learning Representations (ICLR), 2025*   
 *Advances in Financial AI Workshop*
 
 
