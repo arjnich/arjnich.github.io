@@ -6,7 +6,7 @@ layout: default
 
 ## Publications
 
-[Gone With the Bits: Benchmarking Bias in Facial Phenotype Degradation Under Low-Rate Neural Compression](https://arxiv.org/abs/2505.02949)  
+[Gone With the Bits: Revealing Racial Bias in Low-Rate Neural Compression for Facial Images](https://arxiv.org/abs/2505.02949)  
 Tian Qiu\*, **Arjun Nichani\***, Rasta Tadayon, Haewon Jeong  
 *ACM Conference on Fairness, Accountability, and Transparency (FAccT), 2025*  
 

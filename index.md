@@ -16,7 +16,7 @@ In my free time, I enjoy following baseball, playing board games, and composing 
 
 
 ## News
-[Jun 2025] I attended FAccT 2025 in Athens!
-[Mar 2025] I reviewed for FAccT 2025
+[Jun 2025] I attended FAccT 2025 in Athens!  
+[Mar 2025] I reviewed for FAccT 2025  
 [Jul 2024] I attended ICML 2024 in Vienna!   
 [Sep 2023] I began my PhD at the University of California, Santa Barbara!
