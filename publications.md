@@ -6,11 +6,21 @@ layout: default
 
 ## Publications
 
+
+[Does Privacy Always Harm Fairness? Data-Dependent Trade-offs via Chernoff Information Neural Estimation
+](https://arxiv.org/abs/2601.13698)  
+**Arjun Nichani**, Hsiang Hsu, Chun-Fu (Richard) Chen, Haewon Jeong  
+Arxiv Preprint, 2026
+
+
 [Gone With the Bits: Revealing Racial Bias in Low-Rate Neural Compression for Facial Images](https://arxiv.org/abs/2505.02949)  
 Tian Qiu\*, **Arjun Nichani\***, Rasta Tadayon, Haewon Jeong  
 *ACM Conference on Fairness, Accountability, and Transparency (FAccT), 2025*  
 
 
+
+
+### Workshop/Abstracts
 [Can We Catch the Two Birds of Fairness and Privacy?](./can_we_catch_two_birds.pdf)  
 **Arjun Nichani**, Hsiang Hsu, Haewon Jeong  
 *International Conference on Learning Representations (ICLR), 2025*   
